@@ -6,9 +6,10 @@
     <title>Monisha - Portfolio</title>
     <link rel="stylesheet" href="styles.css">
 </head>
-<img src="Snapchat-1863405628.jpg" alt="Your Profile Picture" class="profile-picture">
 <body>
-
+<div class="profile-container">
+        <img src="Snapchat-1863405628.jpg" alt="Profile Photo">
+    </div>
     <header>
         <h1>MONISHA</h1>
         <p><a href="mailto:[Your Email]">[monishamaran53@gmail.com]</a> | [8122166549]</p>
@@ -73,14 +74,14 @@
         <div class="section-content">
             <center>
             <h2>Resume</h2>
-            <a href="Screenshot_2025-03-28-12-21-57-59_439a3fec0400f897 4d35eed09a31f914.jpg" target="_blank" class="download-button">Download CV</a>
+            <a href="./IMG-20250330-WA0065.jpg.pdf" target="_blank" class="download-button">Download CV</a>
         </center>
         </div>
         
     </section>
 
     <footer>
-        <p>&copy; 2025 monisha | All Rights Reserved</p>
+        <p>&copy; 2025 Monisha | All Rights Reserved</p>
     </footer>
 
 </body>
