@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Pushpalatha - Portfolio</title>
+    <title>Monisha - Portfolio</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <img src="Snapchat-1863405628.jpg" alt="Your Profile Picture" class="profile-picture">
@@ -66,7 +66,7 @@
     <section class="declaration">
         <h2>Declaration</h2>
         <p>I hereby declare that the above information is true and correct to the best of my knowledge.</p>
-        <p><strong>Signature:</strong> pushpalatha</p>
+        <p><strong>Signature:</strong> Monisha </p>
     </section>
 <section id="resume">
     
